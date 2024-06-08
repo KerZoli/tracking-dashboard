@@ -13,3 +13,7 @@ docker-compose up
 The database migrations can be found in the **/src/migrations** folder.
 
 Currently, these migrations need to be run manually.
+
+## Client registration
+
+A new client needs to be created before using the client side tracker.
